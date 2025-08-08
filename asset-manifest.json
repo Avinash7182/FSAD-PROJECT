@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/FSAD-PROJECT/static/css/main.f855e6bc.css",
-    "main.js": "/FSAD-PROJECT/static/js/main.ad3d01b4.js",
+    "main.css": "/FSAD-PROJECT/static/css/main.e6c13ad2.css",
+    "main.js": "/FSAD-PROJECT/static/js/main.82357daa.js",
     "static/js/453.617f282f.chunk.js": "/FSAD-PROJECT/static/js/453.617f282f.chunk.js",
     "static/media/logo.svg": "/FSAD-PROJECT/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/FSAD-PROJECT/index.html",
-    "main.f855e6bc.css.map": "/FSAD-PROJECT/static/css/main.f855e6bc.css.map",
-    "main.ad3d01b4.js.map": "/FSAD-PROJECT/static/js/main.ad3d01b4.js.map",
+    "main.e6c13ad2.css.map": "/FSAD-PROJECT/static/css/main.e6c13ad2.css.map",
+    "main.82357daa.js.map": "/FSAD-PROJECT/static/js/main.82357daa.js.map",
     "453.617f282f.chunk.js.map": "/FSAD-PROJECT/static/js/453.617f282f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.ad3d01b4.js"
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.82357daa.js"
   ]
 }
